@@ -1,0 +1,84 @@
+.logo{
+width:200px;
+}
+.fleft{
+float:left;
+}
+.fright{
+float:right;
+}
+.clearfix{
+clear:both;
+}
+body{
+font-style:'lato',sans-serif;
+background-color:#442B4D;
+color:white;
+}
+header{
+padding:40px;
+height:40px;
+}
+header ul li a{
+color:#ffcb59;
+text-decoration:none;
+}
+header ul li{
+display:inline-block;
+padding:10px 15px;
+}
+.icon
+{
+width:40px;
+padding:5px;
+}
+footer{
+padding:40px;
+background:black:
+}
+.add_movie_form
+{
+width:500px;
+margin:0 auto;
+}
+.add_movie_form h2
+{
+ text-align:center;
+font-size=28px;
+margin-bottom=20px;
+}
+.add_movie_form label,.add_movie_form input
+{
+display:block;
+}
+.add_movie_form input,.add_movie_form textarea,.add_movie_form select
+{
+width:100%;
+background:#442D4B;
+border:1px solid white;
+margin:7px 0 15px;
+color:white;
+padding:0 5px;
+font-size:19px;
+font-family:inherit;
+}
+
+.add_movie_form button
+{
+background-color:orange;
+display:inline-block;
+}
+.divide{
+display:inline-block;
+width:50%;
+padding-left:10px;
+}
+form{
+white-space:nowrap;
+}
+.language div
+{
+padding-left:0px;
+}
+
+
